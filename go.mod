@@ -2,7 +2,7 @@ module webtyp.com/installer
 
 go 1.25.2
 
-require webtyp.com/update v0.0.5
+require webtyp.com/update v0.0.6
 
 require (
 	webtyp.com/base64 v0.0.6 // indirect
